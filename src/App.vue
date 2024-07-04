@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
   import { VPdfViewer } from '@vpv/viewer';
   const toolbarOptions = false
 </script>
