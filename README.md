@@ -97,4 +97,4 @@ For more configurations, please check the [documentation](https://docs-vue-pdf-v
 
 ---
 
-Thank you for using VPV! We hope this toolkit helps you build amazing Vue 3 applications. If you have any questions or need further assistance on this example, please feel free to open an issue. Happy coding!
+Thank you for using Vue PDF Viewer! We hope this toolkit helps you build amazing Vue 3 applications. If you have any questions or need further assistance on this example, please feel free to open an issue. Happy coding!
