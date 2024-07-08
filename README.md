@@ -30,7 +30,7 @@ npm install
     cd starter-vpv-composition-ts
     ```
 
-2. **Install Dependencies**: Install the necessary dependencies using npm or yarn.
+2. **Install Dependencies**: Install the necessary dependencies using npm or yarn
 
     ```bash
     npm install
@@ -48,7 +48,7 @@ _Remark: For `pnpm`, there is a bit more configuration required which can be fou
 
 This repo includes an example project to demonstrate how to use VPV. To run the example project:
 
-1. **Serve the Application**: Use the following command to start the development server.
+1. **Serve the Application**: Use the following command to start the development server
 
     ```bash
     npm run serve
@@ -66,7 +66,7 @@ This repo includes an example project to demonstrate how to use VPV. To run the 
 
 Once the example project is running, you may explore the source code to see how the VPV component is integrated. Here is a brief overview:
 
-1. **Import the component**: Import the desired VPV component into your Vue file.
+1. **Import the component**: Import the desired VPV component into your Vue file
 
     ```js
     <script setup>
@@ -74,7 +74,7 @@ Once the example project is running, you may explore the source code to see how 
     </script>
     ```
 
-2. **Use the component in the template**: Add the VPV component to your template section.
+2. **Use the component in the template**: Add the VPV component to your template section
 
     ```html
     <template>
