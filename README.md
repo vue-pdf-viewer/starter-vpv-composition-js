@@ -60,7 +60,7 @@ This repo includes an example project to demonstrate how to use VPV. To run the 
     bun install
     ```
 
-2. **Open in Browser**: Open your browser and navigate to `http://localhost:5173` (or the port specified in your terminal) to see the example project in action.
+2. **Open in Browser**: Open your browser and navigate to `http://localhost:5173` (or the port specified in your terminal) to see the example project in action
 
 ### Using the VPV Component
 
