@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vpv/viewer": "link:@vpv/viewer",
+    "@vue-pdf-viewer/viewer": "latest",
     "vue": "^3.2.37"
   },
   "devDependencies": {

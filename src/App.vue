@@ -1,5 +1,5 @@
 <script setup>
-  import { VPdfViewer } from '@vpv/viewer';
+  import { VPdfViewer } from '@vue-pdf-viewer/viewer';
   const toolbarOptions = false
 </script>
 
