@@ -1,6 +1,6 @@
 # VPV Starter Toolkit in Vue 3 + Composition API
 
-Welcome to the VPV starter toolkit! This repository provides a comprehensive guide on how to use VPV within Vue 3, utilizing the composition API. This repo showcases how VPV can be integrated and demonstrates its core functionalities.
+Welcome to the Vue PDF Viewer (VPV) starter toolkit! This repository provides a comprehensive guide on how to use VPV with Vue 3 via the Composition API. This repo showcases how VPV can be integrated and rendered as part of a Vue.js project.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,7 +11,7 @@ Welcome to the VPV starter toolkit! This repository provides a comprehensive gui
 
 ## Installation
 
-To get started with this repository, clone it to your local machine and install the dependencies:
+To get started, please clone this repo to your local machine and install the dependencies:
 
 ```bash
 git clone https://github.com/your-username/starter-vpv-composition-ts.git
@@ -30,7 +30,7 @@ npm install
     cd starter-vpv-composition-ts
     ```
 
-2. **Install Dependencies**: Install the necessary dependencies using npm or yarn.
+2. **Install Dependencies**: Install the necessary dependencies using npm or yarn
 
     ```bash
     npm install
@@ -42,11 +42,13 @@ npm install
     bun install
     ```
 
+_Remark: For `pnpm`, there is a bit more configuration required which can be found (here)[]._
+
 ### Running the Example Project
 
-This repository includes an example project to demonstrate how to use VPV. To run the example project:
+This repo includes an example project to demonstrate how to use VPV. To run the example project:
 
-1. **Serve the Application**: Use the following command to start the development server.
+1. **Serve the Application**: Use the following command to start the development server
 
     ```bash
     npm run serve
@@ -58,13 +60,13 @@ This repository includes an example project to demonstrate how to use VPV. To ru
     bun install
     ```
 
-2. **Open in Browser**: Open your browser and navigate to `http://localhost:5173` (or the port specified in your terminal) to see the example project in action.
+2. **Open in Browser**: Open your browser and navigate to `http://localhost:5173` (or the port specified in your terminal) to see the example project in action
 
-### Using VPV Components
+### Using the VPV Component
 
-Once the example project is running, you can explore the source code to see how VPV components are integrated. Here is a brief overview:
+Once the example project is running, you may explore the source code to see how the VPV component is integrated. Here is a brief overview:
 
-1. **Import the component**: Import the desired VPV component in your Vue file.
+1. **Import the component**: Import the desired VPV component into your Vue file
 
     ```js
     <script setup>
@@ -72,7 +74,7 @@ Once the example project is running, you can explore the source code to see how 
     </script>
     ```
 
-2. **Use the component in the template**: Add the VPV component to your template section.
+2. **Use the component in the template**: Add the VPV component to your template section
 
     ```html
     <template>
@@ -84,13 +86,15 @@ Once the example project is running, you can explore the source code to see how 
 
 ## Examples
 
-For more detailed examples and usage scenarios, please refer to the `src/App.vue` file in this repository. You can find various example of how to use the VPV component in the following configurations:
+For more examples, please refer to the `src/App.vue` file in this repository:
  - Default Toolbar
  - Without Toolbar
  - Mobile View
 
-If you want to find out more configurations. Please check the [documentation](https://docs-vue-pdf-viewer.logicspark.com) site.
+_Remark: If you would like more examples, feel free to open an issue._
+
+For more configurations, please check the [documentation](https://docs-vue-pdf-viewer.logicspark.com) site.
 
 ---
 
-Thank you for using VPV! We hope this toolkit helps you build amazing Vue 3 applications with VPV and the composition API. If you have any questions or need further assistance, feel free to open an issue or reach out to us. Happy coding!
+Thank you for using VPV! We hope this toolkit helps you build amazing Vue 3 applications. If you have any questions or need further assistance on this example, please feel free to open an issue. Happy coding!
